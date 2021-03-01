@@ -471,6 +471,12 @@ section .title::after{
 .owl-dot:hover{
     background: crimson!important;
 }
+.projects .carousel .card a{
+    color:crimson;
+}
+.projects .carousel .card:hover a{
+    color:#111;
+}
 
 /* contact section styling */
 .contact .title::after{
